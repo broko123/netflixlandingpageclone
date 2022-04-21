@@ -1,0 +1,168 @@
+body{
+	background-color: black;
+	font-family: sans-serif;
+	background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/e316821f-7177-48f4-b748-e44a8b0840df/5eee3d21-7c5b-4eb0-a560-194ec0c3ad0a/CH-en-20220406-popsignuptwoweeks-perspective_alpha_website_large.jpg") ;
+	background-size: 100% 36%;
+	background-repeat: no-repeat;
+
+	}
+ p{
+ 	margin: 0;
+
+ }
+
+   h1{
+   	margin: 0;
+  }
+
+.logo{
+	height: 100px;
+	width: 150px;
+	margin: 50px;
+}
+
+.title{
+	text-align: center;
+	color: white;
+	font-size: 60px;
+	width: 40%;
+	margin-left: 30% ;
+}
+
+.subtitle-one{ 
+	text-align: center; 
+color: white;
+font-size: 25px
+margin-top: 20px;
+}
+
+.subtitle-two{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin-top: 25px;
+}
+
+.form{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 150px;
+}
+
+.email{
+	width: 350px;
+	padding: 15px;
+	font-size: 15px;
+}
+
+ .button{
+ 	height: 50px;
+ 	width: 150px;
+ 	background-color: red;
+ 	color: white;
+ 	font-size: 20px;
+ 	border-color: red;
+ }
+ .line{
+ 	height: 3px;
+ 	background-color: #f3f3f3;
+ }
+
+ .section-2{
+ 	display: flex;
+ 	margin-bottom: 100px;
+ }
+
+
+ .section-2-child-one{
+    /*height: 100px;*/
+ 	width: 50%;
+ 	/*background-color: yellow;*/
+ }
+
+.section-2-child-two{
+ 	/*height: 100px;*/
+ 	width: 50%;
+ 	/*background-color: blue;*/
+ }
+
+
+ .enjoy{
+ 	color: white;
+ 	font-size: 70px;
+ 	margin-top: 80px;
+ 	text-align: center;
+ }
+
+ .watch{
+ 	color: white;
+ 	font-size: 20px;
+ 	margin-top: 5px;
+ 	text-align: center;
+
+ }
+
+ .section-3{
+ 	display: flex;
+ }
+
+
+.section-3-child-one{
+	/*width: 50%;
+	background-color: white;
+	height: 100px;*/
+	
+}
+
+.section-3-child-two{
+	/*width: 50%;
+	background-color: white;
+	height: 100px;*/
+	
+}
+.download{
+	color: white;
+	text-align: 50px;
+	font-size: 50px;
+}
+
+
+.section-4{
+	display: flex;
+}
+
+
+
+.section-4-child-one{
+	/*width: 50%;
+	background-color: transparent;
+	height: 100px;*/
+
+}
+
+
+.section-4-child-two{
+	/*width: 50%;
+	height: 100px;
+	background-color: white;*/
+}
+
+
+
+.everywhere{
+	color: white;
+	font-size: 65px;
+	text-align: left;
+}
+
+
+
+.save{
+	color: white;
+	font-size: 20px;
+	text-align: left;
+	
+}
+ 
+ 
+ 
